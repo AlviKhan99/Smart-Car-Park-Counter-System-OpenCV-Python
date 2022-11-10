@@ -1,1 +1,1 @@
-# Smart-Car-Park-System-OpenCV-Python
+# Smart-Car-Park-Counter-System-OpenCV-Python
